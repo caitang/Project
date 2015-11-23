@@ -1,1 +1,3 @@
 nm -A *.o | grep -in "main"
+
+ll | grep -in '^[a-z0-9].*' 
